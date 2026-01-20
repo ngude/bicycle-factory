@@ -15,7 +15,7 @@
 - front/rear fender mount
 - downtube shifter braze on both sides. is it possible to make this removeable?
 - vertical rear dropout
-- curved blade front fork, biplane crown possible?
+- curved blade front fork, biplane crown possible? reference: [here](biplane.jpg)
 - clearanced for 650b x 48mm RH switchback hill tires
 - integrated rear derailleur hanger (or removeable?)
 - integrated seatpost clamp or removeable?
