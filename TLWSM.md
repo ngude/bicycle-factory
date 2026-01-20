@@ -2,10 +2,10 @@
 
 ## base specs
 - overall geo reference geo is highlighted: ![geo ref table](tlwsm-proto.png)
-- refer to sloped tt version lb for smallest size
+- refer to sloped tt version lightning bolt for smallest size
 - sizes: 48.88, 52, 56.66, 64.44
 - thin wall steel tube made by maxway (how light can we make it? refer to 2019 crust lightning bolt tube spec from maxway)
-- square geometry, horizontal top tube except for smallest size, please refer to 2019 crust lightning bolt canti geo, smallest size.
+- square geometry, horizontal top tube except for smallest size, please refer to 2019 crust lightning bolt canti geo, smallest size. (becca / angel size)
 - 1" threaded headset
 - 27.2 seatpost
 - non-standard cantilever post mount point, higher up for more tire clearance of specific brake model straddle cable (paul minimoto)
