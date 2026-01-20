@@ -13,13 +13,14 @@
 - 68mm road bb shell
 - front/rear rack mount
 - front/rear fender mount
-- downtube shifter braze on both sides. is it possible to make this removeable?
+- downtube shifter braze on both sides. is it possible to make these posts removeable?
 - vertical rear dropout
 - curved blade front fork, biplane crown possible? reference: [here](biplane.jpg)
 - clearanced for 650b x 48mm RH switchback hill tires
 - integrated rear derailleur hanger (or removeable?)
 - integrated seatpost clamp or removeable?
-
+- set up to be used with direct lever front derailleur, reference [here](pbp2019_studio_01_f_der_wm.jpg) and [here](R_Herse_derailleur_action.jpg)
+- 
 ## tulip's build parts specs
 - paul minimoto brakeset
 - 650b rim, 25mm wide if possible
