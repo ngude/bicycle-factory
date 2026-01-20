@@ -4,7 +4,8 @@
 - overall geo reference geo is highlighted: [ref geo table](tlwsm-proto.png)
 - refer to sloped tt version lightning bolt for smallest size
 - sizes: 48.88, 52, 56.66, 64.44
-- (?) thin wall steel tube made by maxway (how light can we make it? refer to 2019 crust lightning bolt tube spec from maxway)
+- (?) thin wall steel tube (butted) made by maxway (how light can we make it? refer to 2019 crust lightning bolt tube spec from maxway)
+- tig welded
 - square geometry, horizontal top tube except for smallest size, please refer to 2019 crust lightning bolt canti geo, smallest size. (becca / angel size)
 - 1" threaded headset
 - 27.2 seatpost
@@ -20,7 +21,7 @@
 - (?) integrated rear derailleur hanger (or removeable?)
 - (?) integrated seatpost clamp or removeable?
 - set up to be used with direct lever front derailleur, reference [here](pbp2019_studio_01_f_der_wm.jpg) and [here](R_Herse_derailleur_action.jpg)
-- 
+  
 ## tulip's sample build parts specs - let's try to source as much from tw local parts supply with help from maxway
 - paul minimoto brakeset
 - 650b rim, 25mm wide if possible, local tw supply
