@@ -27,7 +27,7 @@
 - bitex rear hub -- what spacers needed to run white industries freewheel? (22t)
 - son front hub or nah???
 - rene herse 3x crank 46/32/24 any 3x alternatives on the market?
-- alternative 3x crank option from Peter White: STR125590	Stronglight Impact Triple Crankset, 165mm silver, 48-36-24 7075-T6
+- alternative 3x crank option from Peter White: STR125590	Stronglight Impact Triple Crankset, 165mm silver, 48-36-24 7075-T6 [here](https://www.peterwhitecycles.com/str-cranks.php)
 - alternative 3x crank option from riv: https://www.rivbike.com/products/crank-silver2-triple-44x34x24?variant=41104242147439
 - paul melvin chain tensioner
 - custom lever shifted front derailleur - reference https://www.youtube.com/watch?v=5lZ5CYzzm_w
