@@ -1,7 +1,8 @@
 # the lightweight silly model
 
 ## base specs
-- geo reference: ![geo ref table](tlwsm-geo-ref.png)
+- overall geo reference: ![geo ref table](tlwsm-geo-ref.png)
+- refer to sloped tt version lb for smallest size
 - sizes: 48.88, 52, 55.5, 64.44
 - thin wall steel tube made by maxway (how light can we make it? refer to 2019 crust lightning bolt tube spec from maxway)
 - square geometry, horizontal top tube except for smallest size
