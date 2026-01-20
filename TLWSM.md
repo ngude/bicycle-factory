@@ -1,7 +1,7 @@
 # the lightweight silly model
 
 ## base specs
-- overall geo reference geo is highlighted: ![geo ref table](tlwsm-proto.png)
+- overall geo reference geo is highlighted: [ref geo table](tlwsm-proto.png)
 - refer to sloped tt version lightning bolt for smallest size
 - sizes: 48.88, 52, 56.66, 64.44
 - thin wall steel tube made by maxway (how light can we make it? refer to 2019 crust lightning bolt tube spec from maxway)
