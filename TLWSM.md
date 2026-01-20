@@ -1,4 +1,4 @@
-# the lightweight silly model
+# the tulip house lightweight silly model
 
 ## base specs
 - overall geo reference geo is highlighted: [ref geo table](tlwsm-proto.png)
