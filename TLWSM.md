@@ -21,7 +21,7 @@
 - (?) integrated seatpost clamp or removeable?
 - set up to be used with direct lever front derailleur, reference [here](pbp2019_studio_01_f_der_wm.jpg) and [here](R_Herse_derailleur_action.jpg)
 - 
-## tulip's build parts specs
+## tulip's build parts specs - let's try to source as much from tw local parts supply with help from maxway
 - paul minimoto brakeset
 - 650b rim, 25mm wide if possible, local tw supply
 - bitex/similar tw rear hub -- what spacers needed to run white industries freewheel? (22t)
