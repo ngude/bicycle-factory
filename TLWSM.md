@@ -1,0 +1,36 @@
+# the lightweight silly model
+
+## base specs
+- geo reference: https://bikeinsights.com/search?query=lightning%20bolt
+- sizes: 48.88, 52, 55.5, 64.44
+- thin wall steel tube made by maxway (how light can we make it? refer to 2019 crust lightning bolt tube spec from maxway)
+- square geometry, horizontal top tube except for smallest size
+- 1" threaded headset
+- 27.2 seatpost
+- adjustble (refer to hachita frame)/non-standard cantilever post mount point, higher up for more tire clearance of specific brake model (paul minimoto)
+- 100/130 hub spacing
+- 68mm road bb shell
+- front/rear rack mount
+- front/rear fender mount
+- downtube shifter braze on both sides. is it possible to make this removeable?
+- vertical rear dropout
+- curved blade front fork
+- clearance for 650b x 48mm RH switchback hill tires
+- integrated rear derailleur hanger (or removeable?)
+
+## tulip's build parts specs
+- paul minimoto brakeset
+- 650b rim, 25mm wide if possible
+- bitex rear hub -- what spacers needed to run white industries freewheel? (22t)
+- son front hub
+- rene herse 3x crank 46/32/24 any 3x alternatives on the market?
+- alternative 3x crank option from Peter White: STR125590	Stronglight Impact Triple Crankset, 165mm silver, 48-36-24 7075-T6
+- alternative 3x crank option from riv: https://www.rivbike.com/products/crank-silver2-triple-44x34x24?variant=41104242147439
+- paul melvin chain tensioner
+- custom lever shifted front derailleur
+- basic square taper bottom bracket shimano UN?
+- nitto ui stem, the removeable faceplate kind
+- dura ace headset
+- swoopy bars (ortho or jam bar or something like it)
+- ird cafam brake levers
+- berthoud galibier saddle
