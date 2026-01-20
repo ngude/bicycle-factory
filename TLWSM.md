@@ -1,7 +1,7 @@
 # the lightweight silly model
 
 ## base specs
-- geo reference: ![[tlwsm-geo-ref.png](https://github.com/ngude/bicycle-factory/blob/main/tlwsm-geo-ref.png)]
+- geo reference: ![geo ref table](tlwsm-geo-ref.png)
 - sizes: 48.88, 52, 55.5, 64.44
 - thin wall steel tube made by maxway (how light can we make it? refer to 2019 crust lightning bolt tube spec from maxway)
 - square geometry, horizontal top tube except for smallest size
