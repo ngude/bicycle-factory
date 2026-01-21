@@ -1,6 +1,6 @@
 # the tulip house lightweight silly model
 
-## base specs
+## base frame specs
 - overall geo reference geo is highlighted: [ref geo table](tlwsm-proto.png)
 - refer to sloped tt version lightning bolt for smallest size
 - sizes: 48.88, 52, 56.66, 64.44
